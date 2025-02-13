@@ -1,0 +1,7 @@
+la funcion que tiene el gitignore es un comando que le dice a git que archivos o carpetas debe ignorar, 
+generalmente se coloca en el directorio raiz de un proyecto. 
+las entradas de este archivo tambien pueden seguir un patron coincidente 
+
+* se utiliza como una coincidencia comodin 
+/ se usa para ignorar las rutas relativas al archivo 
+# es usado para agregar comentarios 
