@@ -1,0 +1,1 @@
+Los conceptos que se utilizaron para navegar y crear directorios y archvios, soncd para entrar a directorio, mkdir para crear algun directorio, touch para crearun archivo, ls para listar el contenido, mv para mover algun archivo o directorio tambien se aprendio a utilizar find para buscar arvhivos, rm para borrar 
